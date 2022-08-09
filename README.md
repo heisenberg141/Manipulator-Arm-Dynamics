@@ -12,5 +12,5 @@ The code present in the src folder organised in the following manner:
 # Results
 
 ![illustration](src/dyn_gif.gif)
-![illustration](src/joint_values.png)
+![illustration](joint_values.png)
 
