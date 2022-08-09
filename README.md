@@ -9,3 +9,6 @@ The code present in the src folder organised in the following manner:
 5. fwd_dyn.m contains the code for forward dynamics and gravity compensation. It generates joint torques for holding the robot stable.
 6. inv_dynamics.m contains the code for inverse dynamics in newton euler representation. It generates the Torque plots for getting traversing the trajectory.
 
+# Results
+
+
