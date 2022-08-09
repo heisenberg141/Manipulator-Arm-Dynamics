@@ -1,7 +1,7 @@
 # Dynamic-Modelling-of-Manipulator-Arm
 Inverse dynamics control using dynamic modelling for multi link serial manipulator arm.
 
-The code is organised in the following manner: \
+The code present in the src folder organised in the following manner:
 1. ikin.m contains the code necessary to converge the inverse kinematics to the desired point.
 2. question1.m contains the runner code to find the forward kinematics of the robot.
 3. make_kinematics.m contains the code to generate forward kinematics for the robot
