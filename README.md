@@ -11,4 +11,5 @@ The code present in the src folder organised in the following manner:
 
 # Results
 
+![illustration](dyn_gif.gif)
 
